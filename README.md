@@ -18,9 +18,9 @@ The project was developed as part of the CodeAlpha C Programming Internship.
 
 ## Technologies Used
 
-* C Programming Language
-* GCC Compiler
-* Command Line Interface (CLI)
+- C Programming Language
+- Code::Blocks IDE
+- GCC Compiler
 
 ## Concepts Used
 
@@ -31,28 +31,18 @@ The project was developed as part of the CodeAlpha C Programming Internship.
 * Loops
 * Arithmetic Operators
 
-## How to Run
-
-1. Compile the program:
-
-gcc calculator.c -o calculator
-
-2. Run the executable:
-
-./calculator
-
 ## Sample Output
 
-=================================
-SIMPLE CALCULATOR
-=================
+### =================================
+### SIMPLE CALCULATOR
+### =================================
 
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
 5. Exit
-   =================================
+### =================================
 
 Enter your choice: 1
 
@@ -64,7 +54,7 @@ Result = 100.00
 
 ## Author
 
-Vaishali Bharati
+**Vaishali Bharati**
 
 CodeAlpha C Programming Internship
 
