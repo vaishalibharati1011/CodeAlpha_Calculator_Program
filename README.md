@@ -31,6 +31,7 @@ The project was developed as part of the CodeAlpha C Programming Internship.
 * Loops
 * Arithmetic Operators
 
+
 ## Sample Output
 
 ### =================================
@@ -51,6 +52,9 @@ Enter first number: 85
 Enter second number: 15
 
 Result = 100.00
+
+<img width="631" height="1022" alt="Screenshot 2026-06-22 130243" src="https://github.com/user-attachments/assets/4c46e317-4d51-4c6d-9682-beb16d2ebe26" />
+
 
 ## Author
 
